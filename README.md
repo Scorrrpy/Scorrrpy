@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scorrrpy
 - 👀 I’m interested in Games, Coding and Animals
-- 🌱 I’m currently learning Software Developement
+- 🌱 Software Development Apprentice
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love chocolate <3
 
